@@ -2,3 +2,7 @@ name: WorldChanger
 version: '${version}'
 main: com.artifabrian.worldchanger.WorldChanger
 api-version: '26.3'
+permissions:
+  worldchanger.switch:
+    description: Allows use of /switchworld
+    default: op
