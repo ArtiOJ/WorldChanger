@@ -1,0 +1,4 @@
+name: WorldChanger
+version: '${version}'
+main: com.artifabrian.worldchanger.WorldChanger
+api-version: '26.3'
